@@ -22,10 +22,10 @@ Das sieht dann so aus:
 
 | B | I | N | G | O |
 |---|---|---|---|---|
-|  404 | 200  |   |  Javascript |   |
-|  Get |  JSON | html  |   |   |
-| Put  |   |   |   |   |
-|  Delete |   |   |   |   |
+|  404 | 200  |  401 |  Javascript | 400  |
+|  Get |  JSON | html  | 500  | 403  |
+| Put  | 403  |  301 | 301  |  502 |
+|  Delete | 503  | Patch  | typescript  |   |
 |  Post |   |   |   |   |
 
 ## Erlaubte Inhalte
