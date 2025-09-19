@@ -22,11 +22,11 @@ Das sieht dann so aus:
 
 | B | I | N | G | O |
 |---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   | X |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|  404 | 200  |   |  Javascript |   |
+|  Get |  JSON | html  |   |   |
+| Put  |   |   |   |   |
+|  Delete |   |   |   |   |
+|  Post |   |   |   |   |
 
 ## Erlaubte Inhalte
 - HTTP Codes
